@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481171737 source:c:\users\raj\desktop\dsa_project\librarymanagement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
